@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Compiled output
+dist/
+
+# Env files (if later you use .env)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
