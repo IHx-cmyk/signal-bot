@@ -1188,7 +1188,6 @@ npm run dev
 
 ---
 
-<div align="center">
 
 **Built with ❤️ by [Shiny -Dev (Ihsann)](https://github.com/IHx-cmyk)**
 
